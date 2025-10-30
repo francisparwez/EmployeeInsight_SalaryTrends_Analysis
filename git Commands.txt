@@ -21,9 +21,11 @@
  -------------------------- CREATE NEW BRANCH & PUSH NEW CODE --------------------------
 =========================================================================================
 - cd "G:\My Drive\DATA SCIENCE\Employee Insights & Salary Trends Analysis"
-- git remote add origin https://github.com/francisparwez/EmployeeInsight_SalaryTrends_Analysis.git
-- git checkout -b 03-markdowns-and-showing-distinct-departments
+- git remote -v
+- git checkout -b 04-multiple_tasks_completed-3_till_8
 - git add .
-- git commit -m "Markdowns & Each Departments Displayed"
-- git push -u origin 03-markdowns-and-showing-distinct-departments
-
+- git commit -m "Tasks No. 3 to Task No. 8 Completed"
+- git push -u origin 04-multiple_tasks_completed-3_till_8
+=========================================================================================
+ ********************** PULL REQUEST & MERGE ON WEBSITE & ALL DONE *********************
+=========================================================================================
