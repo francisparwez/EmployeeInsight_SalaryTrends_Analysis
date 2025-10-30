@@ -1,0 +1,29 @@
+- cd "G:\My Drive\DATA SCIENCE\Employee Insights & Salary Trends Analysis"
+- git remote add origin https://github.com/francisparwez/EmployeeInsight_SalaryTrends_Analysis.git
+- git commit -m "Initial Commit"
+- git status
+- git log
+- git branch -M main
+- git push -u origin main
+- git checkout -b 01-read-csv-and-displayed-dataframe main
+- git branch
+- git add .
+- git commit -m "Read CSV file & Display Dataframe Using df.head(10)"
+- git push -u origin 01-read-csv-and-displayed-dataframe
+- git checkout main
+- git checkout -b 02-shape-and-checked-uk-records main
+- git add .
+- git commit -m "Identified The Shape Of The Dataframe & Then Filtered Records Where Country Is UK"
+- git push -u origin 02-shape-and-checked-uk-records
+- git status
+- git log
+=========================================================================================
+ -------------------------- CREATE NEW BRANCH & PUSH NEW CODE --------------------------
+=========================================================================================
+- cd "G:\My Drive\DATA SCIENCE\Employee Insights & Salary Trends Analysis"
+- git remote add origin https://github.com/francisparwez/EmployeeInsight_SalaryTrends_Analysis.git
+- git checkout -b 03-markdowns-and-showing-distinct-departments
+- git add .
+- git commit -m "Markdowns & Each Departments Displayed"
+- git push -u origin 03-markdowns-and-showing-distinct-departments
+
